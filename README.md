@@ -21,42 +21,6 @@ Matplotlib.style,
 Plotly
 for graphing
 
-
-
-**Table of Contents:**
-
-Relationships to be analyzed
-Regions : Platform Sales
-Genre : Critic Ratings
-Genre : User Ratings
-User Scores: Sales
-Platforms : Global Sales
-Genre Rankings
-
-Created a table with the total averaged user_score based on the rating and genre
-
-What are the demands in each region for the different game platforms?
-
-How do components such as Genre and Critic Rating change over time?
-
-What is the highest user score by genre filtered by rating?-Elliot Einstein
-
-What is the highest purchased games by genre filtered by rating?-Elliot Einstein
-
-Which platform (game console) has the highest global sales per genre?
-
-What is the ranking order by genre in NA, EU, and Japan?
-
-Which platform (game console) has the highest global sales?
-
-Which platform (game console) has the highest global sales?
-
-What is the ranking order of Genre in NA, EU, and Japan?
-
-Which platform (game console) has the highest global sales?
-
-What is the ranking order of Genre in NA, EU, and Japan?
-
 ****Responsibilities:****
 
 **Saad Iqbal**
