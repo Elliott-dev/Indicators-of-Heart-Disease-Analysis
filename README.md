@@ -117,5 +117,5 @@ Frank King / https://github.com/inventor-2-developer
 
 Jorge Angon / https://github.com/jorgeangon
 
-Elliott Einstein / https://github.com/Stephbetanzo
+Elliott Einstein / https://github.com/Elliott-de
 
