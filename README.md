@@ -24,6 +24,7 @@ for graphing
 ****Responsibilities:****
 
 **Saad Iqbal**
+
 Question 1: Does biological sex and BMI influence if someone develops a heart disease or not?
 Hypothesis:
 Biological sex and BMI will have a significant influence on the development of heart disease. 
