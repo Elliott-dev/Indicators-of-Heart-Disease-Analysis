@@ -142,6 +142,8 @@ Undersampling can be a good choice when you have a ton of data. But a drawback t
 
 
 Confusion Matrix
+
+
 True Negative 	False Positive
 False Negative	True Positive
 
