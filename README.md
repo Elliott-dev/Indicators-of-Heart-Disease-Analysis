@@ -115,6 +115,24 @@ The data was placed in a function from the sci-py library which tests for the st
 
 Unfortunately, This test does not show the different affects per age on either heart disease or stroke. In order to see this a post-hoc test would have to be used.
 
+**Elliott Einstein**
+
+
+Queestion: Can we identify which variables has the most influence on the development of heart disease?
+Question: Can we classify if a person will have heart disease or not based on the given dataset?
+
+Machine Learning Model
+
+Machine Learning Classifiers
+
+Data Pre-Processing
+
+Confusion Matrix
+
+Classification Report
+
+Model Comparisons
+
 
 
 **Team Members:** 
