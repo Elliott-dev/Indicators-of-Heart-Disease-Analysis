@@ -11,7 +11,6 @@ By asking critical questions pertaining to heart disease and its associated risk
 This project is about statistically analyzing risk factors for heart disease and performing A/B testing, descriptive and inferential statistics to provide health care plans and strategies to better understand the risk factors assocaited with heart disease and give key insights into what factors contribute most heavily and least heavily to the development of heart disease. 
 
 
-
 Technologies used:
 
 Matplotlib,
@@ -106,6 +105,15 @@ Overall, we can only conclude that less sleep time is correlated with the develo
 
 **Frank King**
 
+Question: Is there a relationship between age, stroke, and heart disease? 
+
+Hypothesis: There will be a strong positive relationship, between age, stroke and heart disease.
+
+In this section of the report, the age of individuals, stroke and heart disease were analyzed using the Chi-Squared Test. This test was used due to the data being categorical in nature. The figures in the section are as follows: The first table shows the original dataframe data and its values. The second table shows the dataframe that was filtered to categorize the values, count them and display them in a numerical form so that the data can be analyzed. The scatter plot shows the result of the data plotted on the same axis. This data was random in nature, which is a prerequisite for this test. Random in this context means, randomly chosen and there is no preset order to the data, it is unique, and the data does not mimic a gaussian distribution.
+
+The data was placed in a function from the sci-py library which tests for the statistical value, the p-value and the degrees of freedom. The p values on the table, which is the last figure in this section, states that the null hypothesis needs to be rejected and that there is a significant association between the categories.
+
+Unfortunately, This test does not show the different affects per age on either heart disease or stroke. In order to see this a post-hoc test would have to be used.
 
 
 
