@@ -123,16 +123,34 @@ Question 2: Can we classify if a person will have heart disease or not based on 
 
 Machine Learning Model
 
+Used 3 Machine Learning Classifiers and compared their results against each other, to identify the best model for the classification prediction. 
+Random Forest &AdaBoost makes predictions by applying multiple decision trees to every sample and combining the predictions made by individual trees. However, rather than taking the average of the predictions made by each decision tree in the forest (or majority in the case of classification), in the AdaBoost algorithm, every decision tree contributes a varying amount to the final prediction.Extra tree classifier implements a meta estimator that fits a number of randomized decision trees (a.k.a. extra-trees) on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
+
+
 Machine Learning Classifiers
 
+1. RandomForestClassifier
+2. ExtraTreesClassifier
+3. AdaBoostClassifier
+
 Data Pre-Processing
+The pie chart indicates that the ratio of people who have or do not have heart diseases is very imbalanced. In the 302,823 observations, only 9% of people actually have cardiac diseases.
+If the algorithm was trained based on the original data, it is highly likely to create a model with extremely high accuracy, since the prediction tends to diagnose cases as negative and the majority of the data is also the negative case (HeartDisease = No).
+In order to avoid the above-mentioned issue, one of the approaches is to ensure the percentage of the positive and negative cases is as similar as possible. In this case, we can either delete the negative samples or generate new synthetic samples as the following.
+Undersampling can be defined as removing some observations of the majority class. This is done until the majority and minority class is balanced out.
+Undersampling can be a good choice when you have a ton of data. But a drawback to undersampling is that we are removing information that may be valuable.
+
 
 Confusion Matrix
+True Negative 	False Positive
+False Negative	True Positive
 
 Classification Report
 
-Model Comparisons
+Provided Classification Reports of for each model.
 
+Model Comparisons
+Although the Random Forest and Extremely Random models performed at an accuracy of ~75%, AdaBoost achieved a higher score of 77% through the ensemble learning from the basic Decision Tree models. Among all three models, we can conclude that the AdaBoost model is the winner because it had the best accuracy (77%) and precision (70%) of positive predictions. 
 
 
 **Team Members:** 
