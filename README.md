@@ -139,18 +139,18 @@ We also performed an ANOVA across all age groups for people that reported heart 
 
 Overall, we can only conclude that less sleep time is correlated with the development of a heart disease in young adults aged 18-44, since that was the only instance where we saw a difference of ~30min in sleep time with the lower sleep time corresponding to the sample of people that reported heart disease. However, since we got statistically significant results in all our tests, this leads us to conclude that sleep time is only one of many contributing factors that could lead to the development of heart disease.
 
-*Frank King**
+**Frank King**
 
 
 
 
 **Team Members:** 
 
-Samantha Meza / https://github.com/samanthaameza
+Saad Iqbal / https://github.com/samanthaameza
 
-David Einstein / https://github.com/DavidEinstein
+Frank King / https://github.com/DavidEinstein
 
-Elliott Einstein / https://github.com/Elliott-dev
+Jorge Angon / https://github.com/Elliott-dev
 
-Stephanie Betanzo / https://github.com/Stephbetanzo
+Elliott Einstein / https://github.com/Stephbetanzo
 
