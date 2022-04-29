@@ -2,7 +2,7 @@
 
 # Netflix Data Science Foundations Boot Camp Final Project
 **Project Name**
-:Indicators-of-Heart-Disease-Analysis
+Indicators-of-Heart-Disease-Analysis
 
 **Project description**
 
@@ -110,11 +110,11 @@ Overall, we can only conclude that less sleep time is correlated with the develo
 
 **Team Members:** 
 
-Saad Iqbal / https://github.com/samanthaameza
+Saad Iqbal / https://github.com/zele-2198
 
-Frank King / https://github.com/DavidEinstein
+Frank King / https://github.com/inventor-2-developer
 
-Jorge Angon / https://github.com/Elliott-dev
+Jorge Angon / https://github.com/jorgeangon
 
 Elliott Einstein / https://github.com/Stephbetanzo
 
