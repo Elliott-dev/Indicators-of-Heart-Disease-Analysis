@@ -118,6 +118,7 @@ Unfortunately, This test does not show the different affects per age on either h
 **Elliott Einstein**
 
 Queestion 1: Can we identify which variables has the most influence on the development of heart disease?
+
 Question 2: Can we classify if a person will have heart disease or not based on the given dataset?
 
 Machine Learning Model
