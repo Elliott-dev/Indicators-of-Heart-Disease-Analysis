@@ -175,7 +175,6 @@ Although the Random Forest and Extremely Random models performed at an accuracy 
 ![Elliott1](https://user-images.githubusercontent.com/94668201/165894737-623c6edf-2a8f-4852-aacd-80925a84e520.png)
 
 ![Elliott2](https://user-images.githubusercontent.com/94668201/165894741-46968660-8d39-4a03-b7a6-b43a616e6b07.png)
-
 ![Elliott3](https://user-images.githubusercontent.com/94668201/165894748-883ecbb7-d40c-4a79-9d06-2170b4b9b01c.png)
 
 
