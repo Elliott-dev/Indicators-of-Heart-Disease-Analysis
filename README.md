@@ -30,6 +30,11 @@ Biological sex and BMI will have a significant influence on the development of h
 
 We conducted a multiple linear regression, with BMI and biological sex as the independent variable and whether or not someone has a heart disease as the dependent variable. After running an OLS regression, we received a p-value of less than .01 and an adjusted R^2 value of .007. Thus, BMI and biological sex have a .07% variation in the development of heart disease. This is an extremely low percentage; therefore, even though the regression was significant, we should conduct further analysis on BMI and biological sex on its influence on the development of heart disease.
 
+![Q1_Netflix](https://user-images.githubusercontent.com/94668201/165894270-ab25c831-2f8f-4302-902a-cc23a6ad01e2.png)
+
+
+![Q1_Netflix_Saad](https://user-images.githubusercontent.com/94668201/165894282-f3968a34-4523-47f2-a139-793934769810.png)
+
 
 **Jorge Angon**
 
