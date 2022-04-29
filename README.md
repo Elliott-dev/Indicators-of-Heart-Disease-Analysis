@@ -11,14 +11,6 @@ By asking critical questions pertaining to heart disease and its associated risk
 This project is about statistically analyzing risk factors for heart disease and performing A/B testing, descriptive and inferential statistics to provide health care plans and strategies to better understand the risk factors assocaited with heart disease and give key insights into what factors contribute most heavily and least heavily to the development of heart disease. 
 
 
-Technologies used:
-
-Matplotlib,
-Numpy,
-Seaborn,
-Matplotlib.style,
-Plotly
-for graphing
 
 ****Responsibilities:****
 
