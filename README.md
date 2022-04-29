@@ -21,15 +21,17 @@ Both boxplots showed similar characteristics:
 
 Since we saw the same median sleep time of 7 hours, we performed a 2-sample t-test to compare those samples and see if they have a statistically significant difference in means. 
 
-Test	Samples	P-Value
-2 sample t-test	Sleep time (h) of people that reported heart disease, sleep time (h) of people that didn’t report heart disease	2.492e-06
+|Test	            |Samples	                                                                                                    | P-Value |
+|-------------------|:-------------------------------------------------------------------------------------------------------------:|---------|
+|2 sample t-test	|Sleep time (h) of people that reported heart disease, sleep time (h) of people that didn’t report heart disease|2.492e-06|
 
 Based on the 2-sample t-test, we can reject the null hypothesis and say that there is a statistically significant difference between the means of the two samples.
 
 Due to the results of the 2-sample t-test, we calculated the means of both samples for comparison:
-Sample	Mean Sleep Time (hours)
-0 - No heart disease	7.093
-1 - Heart disease	7.136
+|Sample	             | Mean Sleep Time (hours)|
+|--------------------|:----------------------:|
+|0 - No heart disease| 7.093                  |
+|1 - Heart disease	 | 7.136                  |
 
 Although we got statistically significant results from the 2-sample t-test, we can see that there is not a huge difference between the mean sleep time from both populations, therefore in this situation we need to consider other factors that could be affecting the results and look furthermore into this population to test our hypothesis.
 
@@ -40,61 +42,70 @@ To further investigate, we decided to get more samples based on the following ag
 
 We created a box plot to look more closely at the median sleep time of the samples in the young age category and we saw an hour difference between the median sleep time of the two samples, with the sample of people that reported heart disease having a lower median sleep time of 6 hours. 
 
-Young Adults Sample	Median Sleep Time (hours)
-0 – Reported no heart disease	7
-1 - Reported heart disease	6
+|Young Adults Sample	       |Median Sleep Time (hours)|
+|------------------------------|:------------------------|
+|0 – Reported no heart disease |7                        |
+|1 - Reported heart disease	   |6                        |
 
 Since this aligned with our original hypothesis, we moved forward with a 2-sample t-test.
 
-Test	Young Adults Sample	P-Value
-2 sample t-test	Sleep time (h) of young adults that reported heart disease, sleep time (h) of young adults that didn’t report heart disease	3.0132e-32
+|Test	           |Young Adults Sample	                                                                                                 |P-Value
+|------------------|---------------------------------------------------------------------------------------------------------------------|:--------------:|
+|2 sample t-test   |Sleep time (h) of young adults that reported heart disease, sleep time (h) of young adults that didn’t report heart disease	|3.0132e-32|
 
 Due to the results of the 2 sample t-test above, we calculated the means of both samples for comparison:
 
-Young Adults Samples	Mean Sleep Time (hours)
-0 - Reported no heart disease	6.963
-1 – Reported heart disease	6.504
+|Young Adults Samples	        |Mean Sleep Time (hours)|
+|-------------------------------|:----------------------|
+|0 - Reported no heart disease	|6.963                  |
+|1 – Reported heart disease	    |6.504                  |
 
 We obtained a very small p value that allowed us to conclude that there is a statistically significant difference between the means of the two samples. However, we when looked at the actual means, we saw that it was only about a half hour difference.
 
 In the middle-aged adults population, which we defined as people in the age range of 45-64, we obtained the same sleep time median of 7 hours from a box plot of the two samples. 
 
-Middle-Aged Adults Sample	Median Sleep Time (hours)
-0 – Reported no heart disease	7
-1 - Reported heart disease	7
+|Middle-Aged Adults Sample	   |Median Sleep Time (hours)|
+|------------------------------|:-----------------------:|
+|0 – Reported no heart disease |7                        |
+|1 - Reported heart disease	   |7                        |
 
 Next, we performed a 2-sample t-test to see if there is a statistical difference between the distribution means from the two samples. 
 
-Test	Middle-Aged Adults Sample	P-Value
-2 sample t-test	Sleep time (h) of middle-aged adults that reported heart disease, sleep time (h) of middle-aged adults that didn't report heart disease	1.824e-32
+|Test	            |Middle-Aged Adults Sample	                                                                                                                  |P-Value|
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------|:-----:|
+|2 sample t-test	|Sleep time (h) of middle-aged adults that reported heart disease, sleep time (h) of middle-aged adults that didn't report heart disease	|1.824e-32|
 
 Based on the 2-sample t-test, we can reject the null hypothesis and say that there is a statistically significant difference between the mean sleep time of samples of middle-aged adults that reported heart disease and that didn’t report heart disease.
 
 Due to the results of the 2 sample t-test above, we calculated the means of both sampless for comparison:
 
-Middle-Aged Adults Sample	Mean Sleep Time (hours)
-0 - Reported no heart disease	6.986
-1 – Reported heart disease	6.786
+|Middle-Aged Adults Sample	   |Mean Sleep Time (hours)|
+|------------------------------|:---------------------:|
+|0 - Reported no heart disease |6.986                  |
+|1 – Reported heart disease	   |6.786                  |
 
 Again, although we got statistically significant results from the 2-sample t-test, we can see that there is not a huge difference between the mean sleep time from both populations of middle-aged adults.
 
 In the older adults population, which we defined as people 65 and older, we got the same results as the middle-aged adults for the median sleep time hours for our two samples. 
 
-Older Adults Sample	Median Sleep Time (hours)
-0 – Reported no heart disease	7
-1 - Reported heart disease	7
+|Older Adults Sample	       |Median Sleep Time (hours)|
+|------------------------------|:-----------------------:|
+|0 – Reported no heart disease |7                        |
+|1 - Reported heart disease	   |7                        |
 
 Next, we performed a 2-sample t-test to see if there is a statistical difference between the distribution means from the two samples. 
 
-Test	Older Adults Samples	P-Value
-2 sample t-test	Sleep time (h) of older adults that reported heart disease, sleep time (h) of older adults that didn’t report heart disease	0.0347
+|Test	        |Older Adults Samples	                                                                                                                 |P-Value|
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----:|
+|2 sample t-test|Sleep time (h) of older adults that reported heart disease, sleep time (h) of older adults that didn’t report heart disease|	0.0347|
 
 The p-value for this test was barely small enough to pass the 5% confidence level, but it was still small enough to reject the null hypothesis and conclude that there is a statistically significant difference between the mean sleep time of samples of older adults that reported heart disease and that didn’t report heart disease.
 
 Due to the results of the 2 sample t-test above, we calculated the means of both samples for comparison:
-Older Adults Sample	Mean Sleep Time (hours)
-0 - Reported no heart disease	7.350
-1 – Reported heart disease	7.325
+|Older Adults Sample	        |Mean Sleep Time (hours)|
+|-------------------------------|:---------------------:|
+|0 - Reported no heart disease	|7.350                  |
+|1 – Reported heart disease	    |7.325                  |
 
 Again, although we got statistically significant results from the 2-sample t-test, we can see that the difference between the mean sleep time from both samples was extremely small.
 
