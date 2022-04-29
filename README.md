@@ -110,6 +110,12 @@ We also performed an ANOVA across all age groups for people that reported heart 
 
 Overall, we can only conclude that less sleep time is correlated with the development of a heart disease in young adults aged 18-44, since that was the only instance where we saw a difference of ~30min in sleep time with the lower sleep time corresponding to the sample of people that reported heart disease. However, since we got statistically significant results in all our tests, this leads us to conclude that sleep time is only one of many contributing factors that could lead to the development of heart disease.
 
+![Jorge1](https://user-images.githubusercontent.com/94668201/165894631-a48c4f4c-d5c4-447d-b31c-f74959eccba2.png)
+
+![Jorge2](https://user-images.githubusercontent.com/94668201/165894642-ae2f8111-1192-4e44-b9a5-c12c736da204.png)
+![Jorge3](https://user-images.githubusercontent.com/94668201/165894648-e0d5cdff-2f06-40d4-aa36-579abe120e61.png)
+![Jorge4](https://user-images.githubusercontent.com/94668201/165894656-d7ca870a-4d0f-4964-b2c4-d6a6f6e25403.png)
+
 **Frank King**
 
 Question: Is there a relationship between age, stroke, and heart disease? 
@@ -121,6 +127,9 @@ In this section of the report, the age of individuals, stroke and heart disease 
 The data was placed in a function from the sci-py library which tests for the statistical value, the p-value and the degrees of freedom. The p values on the table, which is the last figure in this section, states that the null hypothesis needs to be rejected and that there is a significant association between the categories.
 
 Unfortunately, This test does not show the different affects per age on either heart disease or stroke. In order to see this a post-hoc test would have to be used.
+
+![Frank1](https://user-images.githubusercontent.com/94668201/165894707-a0b11407-078c-4d73-a636-695f0f04b754.png)
+
 
 **Elliott Einstein**
 
@@ -149,7 +158,9 @@ Undersampling can be a good choice when you have a ton of data. But a drawback t
 
 
 Confusion Matrix
-
+![Elliott CM1](https://user-images.githubusercontent.com/94668201/165894760-64df3bd2-25ab-4833-acfc-28754340cb52.png)
+![Elliott CM2](https://user-images.githubusercontent.com/94668201/165894770-7c451e9d-358f-496a-baa1-48617ba7f975.png)
+![Elliott CM3](https://user-images.githubusercontent.com/94668201/165894774-c347c1ca-6c49-489a-ad6c-d4501233a6eb.png)
 
 True Negative 	False Positive
 
@@ -163,6 +174,14 @@ Provided Classification Reports of for each model.
 Model Comparisons
 Although the Random Forest and Extremely Random models performed at an accuracy of ~75%, AdaBoost achieved a higher score of 77% through the ensemble learning from the basic Decision Tree models. Among all three models, we can conclude that the AdaBoost model is the winner because it had the best accuracy (77%) and precision (70%) of positive predictions. 
 
+
+![Elliott1](https://user-images.githubusercontent.com/94668201/165894737-623c6edf-2a8f-4852-aacd-80925a84e520.png)
+
+![Elliott2](https://user-images.githubusercontent.com/94668201/165894741-46968660-8d39-4a03-b7a6-b43a616e6b07.png)
+
+![Elliott3](https://user-images.githubusercontent.com/94668201/165894748-883ecbb7-d40c-4a79-9d06-2170b4b9b01c.png)
+
+![Elliott Identifiers](https://user-images.githubusercontent.com/94668201/165894779-f3ae57b3-0527-414f-9e5d-0001b0e5dedd.png)
 
 **Team Members:** 
 
