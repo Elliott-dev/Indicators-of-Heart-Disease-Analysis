@@ -59,29 +59,17 @@ What is the ranking order of Genre in NA, EU, and Japan?
 
 ****Responsibilities:****
 
-**Elliott Einstein**
+**Saad Iqbal**
+Question 1: Does biological sex and BMI influence if someone develops a heart disease or not?
+Hypothesis:
+Biological sex and BMI will have a significant influence on the development of heart disease. 
 
-Aggregrated the mean of the user_score based on the rating and genre.
-
-Aggregrated the sum of the games purchased on the rating and genre.
-
-Created a stacked bar char for the aggregration of mean of the user_score based on the rating and per genre.
-
-Created a stacked bar char for the aggregration of sum of the user_score based on the rating and per genre.
-
-Created a table with the total averaged user_score based on the rating and per genre.
-
-Created a table with the total purchased games based on the rating and per genre.
-
-Took leadership in the creation and maitainance of group repository.
-
-Summarizing the video game rating system (ESRB), and how this study shows the indication of which games are more likely to be rated based on genre filtered by the rating, and the number of game purchased by genre filtered by the rating.
 
 **Jorge Angon**
 
 Question 2: Does the amount of sleep a person gets influence if they will develop a heart disease?
 
-Hypothesis for the second question: Less sleep time is correlated to the development of a heart disease
+Hypothesis: Less sleep time is correlated to the development of a heart disease
 
 We began by dividing the entire dataset population into two samples: -people that reported no heart disease -people that reported having heart disease
 
@@ -150,23 +138,10 @@ To round out this analysis, we performed an ANOVA test to compare the mean sleep
 We also performed an ANOVA across all age groups for people that reported heart disease and again got a small p – value (7.229 e-147) that allowed us to conclude that there is a statistical difference between the means of each sample.
 
 Overall, we can only conclude that less sleep time is correlated with the development of a heart disease in young adults aged 18-44, since that was the only instance where we saw a difference of ~30min in sleep time with the lower sleep time corresponding to the sample of people that reported heart disease. However, since we got statistically significant results in all our tests, this leads us to conclude that sleep time is only one of many contributing factors that could lead to the development of heart disease.
-**David Einstein**
 
-Presented slides 14-21
+*Frank King**
 
-In Charge of Sharing Powerpoint, and keeping time under 10 minutes
 
-Aggregrated the sum of the total Global Sales based on the Platform and genre.
-
-Aggregated the Total Percentage based on NA, Europe, Japan Regions and showed results on stack chart
-
-Displayed Genre across NA, Europe, Japan and Other Regions on a Table 
-
-Spoke briefly about the problems encountered with the original purpose 
-
-Gave future direction of the project 
-
-Summarized all the findings for my part and the entire group
 
 
 **Team Members:** 
