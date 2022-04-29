@@ -12,9 +12,12 @@ We began by dividing the entire dataset population into two samples:
 First created a boxplot to compare the characteristics of the two samples
 
 Both boxplots showed similar characteristics:
-Sample	Median Sleep Time (hours)
-0 - Reported no heart disease	7
-1 - Reported heart disease	7
+
+
+| Sample	                    | Median Sleep Time (hours) |
+| ----------------------------- | :------------------------:|
+| 0 - Reported no heart disease	| 7                         |
+| 1 - Reported heart disease	| 7                         |
 
 Since we saw the same median sleep time of 7 hours, we performed a 2-sample t-test to compare those samples and see if they have a statistically significant difference in means. 
 
